@@ -27,11 +27,24 @@ To request a new taunt, either:
 123. Screaming in horror
 124. It's over
 125. Wololololo
-126. Yes, black forest
-127. Being too repetitive
+126. Chicken noise
+127. Memb speaks German
+128. It's a smurf, man
+129. They are smurf
+130. Yes, black forest
+131. Yes, Team Islands
+132. Attack attack!
+133. Bring the relics to your base
+134. He take the farmer
+135. Laming strategy
+136. Second castle on his face
+137. This is fucking amazing
+138. Being too repetitive
 
 # Credits
 Thanks to MembTv for his amazing aoe2 casting, support him at: https://twitch.tv/membtv
+
+
 
 
 
